@@ -1,10 +1,10 @@
 # Vision-First Document AI Systems
 
-### Research-Driven Portfolio | Multimodal Learning | RAG Pipelines
+# Research-Driven Portfolio | Multimodal Learning | RAG Pipelines
 
 ---
 
-## Author
+# Author
 
 **Tadiparthi Gnaneswar**
 
