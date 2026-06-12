@@ -14,7 +14,7 @@
 
 ---
 
-## Overview
+# Overview
 
 This repository presents my work on **vision-first document understanding systems**, focusing on transforming **complex unstructured documents into deterministic, machine-readable formats**.
 
@@ -29,7 +29,7 @@ The work combines:
 
 ## Key Projects
 
-### EduTutor AI
+## EduTutor AI
 
 AI-powered personalized tutor using RAG-based pipelines
 
