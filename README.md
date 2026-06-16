@@ -38,7 +38,7 @@ https://github.com/gnani291/EDUTUTOR-AI
 
 ---
 
-### LIKKI AI
+# LIKKI AI
 
 Multimodal assistant combining vision + voice + retrieval
 
@@ -47,7 +47,7 @@ https://github.com/gnani291/LIKKI_AI
 
 ---
 
-## GSoC 2026 – Kubeflow Contribution
+# GSoC 2026 – Kubeflow Contribution
 
 Worked on scalable ML pipelines using Kubeflow:
 
